@@ -1,5 +1,5 @@
 import CarCard from "@/components/car-card";
-import HomeSearch from "@/components/ui/home-search";
+import HomeSearch from "@/components/home-search";
 import { featuredCars, carMakes, bodyTypes, faqItems } from "@/lib/data";
 import { ChevronRight, Car, Calendar, Shield } from "lucide-react";
 import { Accordion, AccordionItem, AccordionTrigger, AccordionContent } from "@/components/ui/accordion";
